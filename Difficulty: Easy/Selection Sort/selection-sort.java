@@ -55,8 +55,7 @@ class Solution {
             for(int j=i+1; j<arr.length; j++){
                 if(arr[j]<arr[min]){
                     min=j;
-                }
-                
+                } 
             }
             temp=arr[i];
             arr[i]=arr[min];
