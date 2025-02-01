@@ -4,6 +4,5 @@
 <strong>Output</strong>: [1, 3, 4, 7, 9]<br><strong>Explanation: </strong>The sorted array will be </span><span style="font-size: 14pt;">[1, 3, 4, 7, 9].</span></pre>
 <pre><span style="font-size: 18px;"><strong>Input</strong>: arr[] = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
 <strong>Output</strong>: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<br></span><span style="font-size: 14pt;"><strong>Explanation: </strong>The sorted array will be [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].</span></pre>
-<pre><span style="font-size: 18px;"><strong>Input</strong>: arr[] = [4, 1, 9]
-<strong>Output</strong>: [1, 4, 9]<br><strong>Explanation: </strong>The sorted array will be </span><span style="font-size: 14pt;">[1, 4, 9]</span>.</pre>
+
 <p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 &lt;= arr.size() &lt;= 1000<br>1 &lt;= arr[i] &lt;= 1000</span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Microsoft</code>&nbsp;<code>MAQ Software</code>&nbsp;<code>Juniper Networks</code>&nbsp;<code>Cisco</code>&nbsp;<code>Accenture</code>&nbsp;<code>Dell</code>&nbsp;<code>Veritas</code>&nbsp;<code>Grofers</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Sorting</code>&nbsp;<code>Algorithms</code>&nbsp;
