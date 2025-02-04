@@ -45,3 +45,20 @@ class Sol {
         return result;
     }
 }
+
+
+
+/* 
+### Approach 2: XOR-Based Optimized Solution
+
+class Sol {
+    public static int search(int n, int arr[]) {
+        int result = 0;
+        for (int num : arr) {
+            result ^= num; // XOR operation
+        }
+        return result;
+    }
+}
+
+*/
