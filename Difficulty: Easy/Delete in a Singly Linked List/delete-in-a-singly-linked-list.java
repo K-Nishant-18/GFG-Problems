@@ -99,3 +99,33 @@ class Solution {
         return head;
     }
 }
+
+
+/*
+
+class Solution {
+    Node deleteNode(Node head, int x) {
+        // Edge case: If the list is empty
+        if (head == null) return null;
+
+        // If the node to be deleted is the head
+        if (x == 1) {
+            return head.next;
+        }
+
+        Node temp = head;
+        for (int i = 1; i < x - 1 && temp.next != null; i++) {
+            temp = temp.next;
+        }
+
+        // Delete the node if it's valid
+        if (temp.next != null) {
+            temp.next = temp.next.next;
+        }
+
+        return head;
+    }
+}
+
+
+*/
