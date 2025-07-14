@@ -1,0 +1,6 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/print-table0303/1">Multiplication Table</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Create the multiplication table&nbsp;</span><span style="font-size: 18px;">from 1 to 10 </span><span style="font-size: 18px;">for a given number </span><strong style="font-size: 18px;">n </strong><span style="font-size: 18px;">and return the table as an array.</span></p>
+<p><strong><span style="font-size: 18px;">Examples:</span></strong></p>
+<pre><strong><span style="font-size: 18px;">Input: </span></strong><span style="font-size: 18px;">n = 9<br></span><strong><span style="font-size: 18px;">Output: </span></strong><span style="font-size: 18px;">9 18 27 36 45 54 63 72 81 90</span></pre>
+<pre><strong><span style="font-size: 18px;">Input: </span></strong><span style="font-size: 18px;">n = 2</span>
+<strong><span style="font-size: 18px;">Output:</span> </strong><span style="font-size: 18px;">2 4 6 8 10 12 14 16 18 20</span><span style="font-size: 18px;"><br></span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints:&nbsp;</strong><br>1 &lt;= N &lt;= 10<sup>6</sup></span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Mathematical</code>&nbsp;<code>Algorithms</code>&nbsp;
