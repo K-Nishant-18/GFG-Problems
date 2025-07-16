@@ -38,3 +38,37 @@ class Solution {
         return (temp==rev);
     }
 }
+
+
+
+//For Generalized Armstrong number use this-
+class Solution {
+    static boolean armstrongNumber(int n) {
+        int temp=n;
+        int temp2=n;
+        int count=countDigit(temp);
+        int sum=0;
+        
+        while(temp2!=0){
+            int digit=temp2%10;
+            sum=sum+ (int)Math.pow(digit, count);
+            temp2=temp2/10;
+        }
+        
+        if(sum==n){
+            return true;
+        }else{
+            return false;
+        }
+        
+    }
+    
+    public static int countDigit(int temp){
+        int m=0;
+        while(temp!=0){
+            temp=temp/10;
+            m++;
+        }
+        return m;
+    }
+}
